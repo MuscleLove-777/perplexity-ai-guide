@@ -1,0 +1,37 @@
+{
+  "Perplexity 使い方": [
+    {"keyword": "Perplexity AIとは 始め方 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity 無料でできること", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity プロンプトのコツ", "priority": "medium", "status": "pending"}
+  ],
+  "Perplexity 料金・プラン": [
+    {"keyword": "Perplexity Pro 料金 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity 無料 vs Pro 比較", "priority": "high", "status": "pending"}
+  ],
+  "Perplexity Pro": [
+    {"keyword": "Perplexity Pro 限定機能まとめ", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity Pro GPT-4o 使い放題", "priority": "medium", "status": "pending"}
+  ],
+  "Perplexity vs Google": [
+    {"keyword": "Perplexity vs Google検索 2026", "priority": "high", "status": "pending"},
+    {"keyword": "なぜPerplexityの方が正確なのか", "priority": "high", "status": "pending"}
+  ],
+  "Perplexity API": [
+    {"keyword": "Perplexity API 入門ガイド", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity API 料金体系", "priority": "medium", "status": "pending"}
+  ],
+  "Perplexity 最新ニュース": [
+    {"keyword": "Perplexity Personal Computer 発表", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity MCP離れ宣言", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity 2026 新機能まとめ", "priority": "medium", "status": "pending"}
+  ],
+  "AI検索エンジン比較": [
+    {"keyword": "Perplexity vs ChatGPT検索 vs Gemini 比較", "priority": "high", "status": "pending"},
+    {"keyword": "AI検索エンジン おすすめ 2026", "priority": "medium", "status": "pending"}
+  ],
+  "Perplexity 活用事例": [
+    {"keyword": "Perplexity リサーチ活用術", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity 学生向け活用ガイド", "priority": "high", "status": "pending"},
+    {"keyword": "Perplexity ビジネス活用 事例集", "priority": "medium", "status": "pending"}
+  ]
+}
