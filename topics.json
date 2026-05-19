@@ -70,7 +70,8 @@
     {
       "keyword": "Perplexity Personal Computer 発表",
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "done_at": "2026-05-19T09:33:58.801118"
     },
     {
       "keyword": "Perplexity MCP離れ宣言",
